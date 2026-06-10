@@ -1,4 +1,3 @@
-# digitalspirit-demo
-This is my first git Repository.
+This is my second Practice git Repository.
 <br>
-Change by Pravin Bendke(Digital-Spirit).
+Change by Pravin Bendke.
